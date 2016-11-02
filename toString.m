@@ -97,7 +97,7 @@ function str = toString(var, varargin)
 
 
 % If you find this work useful and want to make a donation:
-% https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6G3S5UYM7HJ3N
+% https://www.paypal.me/RodyO/3.5
 
 
 
@@ -111,7 +111,7 @@ function str = toString(var, varargin)
 
 
 % If you find this work useful and want to show your appreciation:
-% https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6G3S5UYM7HJ3N
+% https://www.paypal.me/RodyO/3.5
 
 
 % Authors
@@ -146,7 +146,7 @@ Clark Williams   (rich.dick.clark@gmail.com)
 
 
 % If you find this work useful and want to make a donation:
-% https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6G3S5UYM7HJ3N
+% https://www.paypal.me/RodyO/3.5
 
 
     
